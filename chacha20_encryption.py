@@ -12,7 +12,7 @@ import base64
 class ChaCha20GUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("ChaCha20-Poly1305 Encryption System - For the Master")
+        self.root.title("ChaCha20-Poly1305 Encryption System - furt1v0")
         self.root.geometry("900x700")
         
         # Variables
